@@ -1,0 +1,6 @@
+{
+  "name": "果用经济作物RAG问答系统",
+  "description": "基于检索增强生成(RAG)的果用经济作物问答知识库应用，支持本地知识库构建和智能问答。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
